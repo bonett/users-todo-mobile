@@ -23,7 +23,7 @@ git clone https://github.com/bonett/users-todo-mobile.git
 
 2. Add firebase config in the `.env` file.
 
-3. cd bici-town and install the dependencies
+3. cd users-todo-mobile and install the dependencies
 
 ```
 npm i
